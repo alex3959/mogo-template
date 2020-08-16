@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ad7a45b5-40d4-4cfd-a619-bf65dc11f2de" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1aQQFWOfUpeDkWV2nezFgi3z5aG" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/images" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\OSPanel\domains\Mogo.com\images" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ad7a45b5-40d4-4cfd-a619-bf65dc11f2de" name="Default Changelist" comment="" />
+      <created>1586665234481</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586665234481</updated>
+      <workItem from="1586665235936" duration="1778000" />
+      <workItem from="1586744840683" duration="3004000" />
+      <workItem from="1586750553574" duration="1192000" />
+      <workItem from="1586774658044" duration="14126000" />
+      <workItem from="1586833395753" duration="2417000" />
+      <workItem from="1586864590137" duration="2818000" />
+      <workItem from="1586921430917" duration="21459000" />
+      <workItem from="1586968307401" duration="1025000" />
+      <workItem from="1587008600243" duration="15052000" />
+      <workItem from="1587049275106" duration="3213000" />
+      <workItem from="1587090713823" duration="1217000" />
+      <workItem from="1587101376096" duration="16039000" />
+      <workItem from="1587128580103" duration="17273000" />
+      <workItem from="1587214943961" duration="13325000" />
+      <workItem from="1587265986232" duration="2134000" />
+      <workItem from="1587280798861" duration="15562000" />
+      <workItem from="1587374962391" duration="2961000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="500" y="185" key="FileChooserDialogImpl" timestamp="1587090725158">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="500" y="185" key="FileChooserDialogImpl/0.0.1440.860@0.0.1440.860" timestamp="1587090725158" />
+    <state x="416" y="254" key="com.intellij.ide.util.TipDialog" timestamp="1587374963178">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="416" y="254" key="com.intellij.ide.util.TipDialog/0.0.1440.860@0.0.1440.860" timestamp="1587374963178" />
+    <state x="351" y="127" width="737" height="606" key="find.popup" timestamp="1587146692155">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="351" y="127" width="737" height="606" key="find.popup/0.0.1440.860@0.0.1440.860" timestamp="1587146692155" />
+    <state x="376" y="195" key="run.anything.popup" timestamp="1587234693799">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="376" y="195" key="run.anything.popup/0.0.1440.860@0.0.1440.860" timestamp="1587234693799" />
+    <state x="363" y="152" width="672" height="574" key="search.everywhere.popup" timestamp="1587316597235">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="363" y="152" width="672" height="574" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1587316597235" />
+    <state x="383" y="180" width="672" height="678" key="search.everywhere.popup/0.0.1440.860@0.0.1440.860" timestamp="1587105349765" />
+  </component>
+</project>
